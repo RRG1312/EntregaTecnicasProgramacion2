@@ -1,0 +1,24 @@
+@startuml ej1
+
+class Circulo{
+  String color
+  Integer diametro
+}
+
+class Rectangulo {
+  Integer longitud
+  Integer anchura
+  String color
+}
+
+class Cuadrado {
+  Integer longitud
+  String color
+}
+
+class Elipse {
+  String color
+  Integer ejeMayor
+  Integer ejeMenor
+}
+@enduml
