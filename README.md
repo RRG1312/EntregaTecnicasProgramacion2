@@ -1,4 +1,9 @@
 # EntregaTecnicasProgramacion2
+## Nota: 
+Mi repositorio es: https://github.com/RRG1312/EntregaTecnicasProgramacion2.git
+
+## Enunciado:
+__Los enunciados estan en : https://campus.uax.es/moodle/mod/assign/view.php?id=465806
 
 # Ejercicio 1
 
