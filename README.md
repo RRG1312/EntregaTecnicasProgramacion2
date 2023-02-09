@@ -39,7 +39,7 @@ Algo VelocidadMedia
 
     Inicio
 
-        velocidad <-enter("Introduzca la distancia(km): ")
+        distancia <-enter("Introduzca la distancia(km): ")
 
         tiempo <-enter("Introduzca el tiempo(min): ")
 
